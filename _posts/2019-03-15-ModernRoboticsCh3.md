@@ -101,7 +101,7 @@ R=Rot(\hat{\omega},\theta),\hat{\omega} = (\hat{\omega}_1,\hat{\omega}_2,\hat{\o
 +s_{\theta}\begin{bmatrix}0 & -\hat{\omega}_3 & \hat{\omega}_2 \\ \hat{\omega}_3 & 0 & -\hat{\omega}_1\\ -\hat{\omega}_2 & \hat{\omega}_1 & 0 \end{bmatrix} 
 + (1-c_{\theta})
 \begin{bmatrix}
-\hat{\omega}_1^2 & \hat{\omega}_1\hat{\omega}_2 & \hat{\omega}_1\hat{\omega}_2 \\ 
+\hat{\omega}_1^2 & \hat{\omega}_1\hat{\omega}_2 & \hat{\omega}_1\hat{\omega}_3 \\ 
  \hat{\omega}_2\hat{\omega}_1 & \hat{\omega}_2^2 & \hat{\omega}_2\hat{\omega}_3 \\ 
  \hat{\omega}_3\hat{\omega}_1 & \hat{\omega}_3\hat{\omega}_2 &\hat{\omega}_3^2
 \end{bmatrix} \\\nearrow 根据指数公式展开二次项得到
